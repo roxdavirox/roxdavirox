@@ -1,9 +1,8 @@
 ### Hey there 👋
-I'm Davi Coutinho, better known as Rox, a 25-year old technical enthusiast who does web development, architecture research and Functional language development. Passionate to contribute open-source projects, play valorant and make cool products.<br>
+I'm Davi Coutinho, better known as Rox, a 25-year old. technical enthusiast who does web development, architecture research and Functional language development. Passionate to make cool products.<br>
 
+I’m currently learning React native in deep
 
-- 🌱 I’m currently learning Elixir and React Native
-- 👯 I’m looking to collaborate on [Material UI](https://github.com/mui-org/material-ui)
 
 <div>
   <h3> 💻 Languages and Tools </h3>
