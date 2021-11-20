@@ -11,7 +11,7 @@ I’m currently learning React native in depth
   <p>
 </div> 
 
-![Davi's github stats](https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Davi's github stats](https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=tokyonight&include_all_commits=false)
 
 ## 📫 How to reach me: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/roox_davi) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roox.davi)
