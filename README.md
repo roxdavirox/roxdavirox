@@ -11,7 +11,7 @@ I'm Davi Coutinho, 26-year old. technical enthusiast who does web and mobile dev
 
 <img alt="Dark Badge (micro)" src="https://www.codewars.com/users/roxdavirox/badges/large">
 
-![Davi's github stats](https://github-readme-stats.vercel.app/api?username=roxdavirox&count_private=false&show_icons=true&include_all_commits=true)
+![Davi's github stats](https://github-readme-stats.vercel.app/api?username=roxdavirox&count_private=true&show_icons=true&include_all_commits=true)
 
 ## 📫 How to reach me: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roox.davi)
