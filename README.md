@@ -1,5 +1,5 @@
 ### Hey there 👋
-I'm Davi Coutinho, 27-year old. technical enthusiast who does web and mobile development, architecture and Functional language. Passionate to make cool products.<br>
+I'm Davi Coutinho, 29-year old. technical enthusiast who does web and mobile development, architecture and Functional languages. Passionate to make cool products.<br>
 
 
 <div>
