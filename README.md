@@ -1,53 +1,44 @@
-# 👋 Hello, World!
+# Davi Coutinho
 
-I'm **Davi Coutinho**, a 29-year-old fullstack developer focused on **web and mobile development** and **software architecture**. 
-I'm passionate about turning ideas into **real, impactful products** and diving deep into tech internals to build elegant, performant, and scalable solutions.
+**Senior Fullstack Engineer** specializing in TypeScript ecosystems, monorepo architectures, and AI-powered automation.
 
----
-
-## 🧠 Areas of Interest
-
-- Fullstack Web & Mobile Development(w react native)
-- Software Architecture (Monorepos, Clean Code, DDD)
-- Functional Languages (Elixir, Haskell)
-- Build Engineering & DevOps (Docker, Redis, PostgreSQL, CI/CD)
-- Tech as a medium of artistic & philosophical expression
+Building scalable web applications and exploring the intersection of software engineering and artificial intelligence.
 
 ---
 
-## 💻 Technologies & Tools
+## 🔧 Core Stack
+
+```
+TypeScript • React • Next.js • NestJS • Node.js • tRPC
+PostgreSQL • Redis • Prisma • Docker • pnpm Workspaces
+```
+
+## 🎯 Current Focus
+
+- **AI Agents & Automation** — Browser automation, MCP servers, and autonomous agents
+- **Healthcare Tech** — Building credentialing platforms with type-safe APIs
+- **Monorepo Architecture** — TurboRepo, pnpm workspaces, shared packages
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**take-home**](https://github.com/roxdavirox/take-home) | Production-ready fullstack monorepo template | Next.js 15, NestJS, Prisma, Redis |
+| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | WhatsApp Web socket integration | Node.js, WebSocket |
+| [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture API with TDD | TypeScript, Jest |
+
+## 📊 Stats
 
 <p>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="JavaScript" />
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" title="React" />
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" title="HTML/CSS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxdavirox&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
-- **Frontend:** React.js, Next.js, React Native  
-- **Backend:** NestJS, Node.js, Prisma, Express  
-- **Databases:** PostgreSQL, Redis  
-- **DevOps:** Docker, Docker Compose
-- **Testing:** Jest, SuperTest, Testing Library  
-
----
-
-## 🧪 Constantly Learning
-
-📍 Currently diving deeper into:
-- Test-driven development (TDD, e2e)
-- Web security (JWT, Auth Middleware, CORS)
-- React Query & TurboRepo architecture for modern monorepos
-
----
-
-## 🧩 My Challenge Progress
+## 🏆 Codewars
 
 [![Codewars](https://www.codewars.com/users/roxdavirox/badges/large)](https://www.codewars.com/users/roxdavirox)
 
----
+## 📫 Connect
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/roxdavirox)
