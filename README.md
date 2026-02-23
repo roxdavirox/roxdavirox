@@ -77,7 +77,7 @@ Building sophisticated AI-powered systems:
 
 ### 🔬 Current Interests
 
-**Dev Toolbox** — Personal VPS (8 vCPUs, 32GB RAM) as cloud dev environment
+**Dev Toolbox** — Cloud dev environment with isolated workspaces, reverse proxies, SSL automation, PM2 process management, and multi-project orchestration
 
 **Studying:**
 - Functional programming (fp-ts, Effect)
