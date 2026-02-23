@@ -179,6 +179,8 @@ Personal **cloud dev environment** — VPS with 8 vCPUs, 32GB RAM running all pr
 
 ---
 
-### 📊 Stats
+### 📊 Activity
+
+**30+ repositories** · TypeScript focus · Building since 2020
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
