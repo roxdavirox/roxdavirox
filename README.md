@@ -21,7 +21,7 @@ My focus is on delivering **clean, scalable, and maintainable** software while c
 
 ### 🤖 AI Engineering & Automation
 
-Currently building sophisticated AI-powered systems that go beyond simple chatbots:
+Currently building sophisticated AI-powered systems:
 
 **Mago Platform** — A complete workflow automation platform featuring:
 - 🔀 **Parallel Agent Execution** — Multiple AI agents running concurrently
@@ -33,28 +33,43 @@ Currently building sophisticated AI-powered systems that go beyond simple chatbo
 **Other AI Projects:**
 - **Agent Weaver** — 3D visualization for agent orchestration and debugging
 - **Figma Component Factory** — AI-powered component extraction from design artifacts
-- **Claude Code Integration** — Deep integration with AI coding assistants
+
+---
+
+### 🏗 Architecture & Software Design
+
+Strong focus on **maintainable** and **testable** code through proven patterns:
+
+**Clean Architecture**
+- Separation of concerns with layers (Domain, Application, Infrastructure)
+- Dependency inversion for testability
+- Use cases as application entry points
+- Repository pattern for data access abstraction
+
+**Domain-Driven Design (DDD)**
+- Bounded contexts for complex domains
+- Aggregates and entities with business rules
+- Value objects for immutability
+- Domain events for decoupled communication
+
+**Monorepo & Modular Architecture**
+- Shared packages with clear boundaries
+- TurboRepo/pnpm workspaces for build optimization
+- Type-safe contracts between packages (tRPC, Zod)
+- Consistent tooling across projects
 
 ---
 
 ### 🔬 Research & Interests
 
 **Dev Toolbox Philosophy**  
-I maintain a **cloud development environment** — a VPS configured as a complete dev workstation with projects, tools, and automation ready to go. Portable, powerful, accessible anywhere.
+I maintain a **cloud development environment** — a VPS configured as a complete dev workstation with projects, tools, and automation. Portable, powerful, accessible anywhere.
 
-**Current Focus:**
-
-| Area | What I'm Building |
-|------|-------------------|
-| 🤖 **AI Agents** | Multi-agent orchestration, parallel execution, MCP servers |
-| 🌐 **Browser Automation** | Chrome extensions, headless browsers, web scraping |
-| 🏥 **Healthcare Tech** | Credentialing platforms, approval workflows, compliance |
-| 🛠 **Developer Tools** | Monorepos, testing pipelines, Neovim configs |
-
-**Studying:**
+**Currently Studying:**
 - Functional programming (fp-ts, Effect)
 - Distributed systems & event sourcing
 - Rust for performance-critical tooling
+- Neovim ecosystem & Lua scripting
 
 ---
 
@@ -99,13 +114,13 @@ I maintain a **cloud development environment** — a VPS configured as a complet
 </td>
 <td valign="top" width="50%">
 
-**Testing & AI Tools**
+**Testing & Tools**
 
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
 </td>
 </tr>
@@ -121,16 +136,10 @@ I maintain a **cloud development environment** — a VPS configured as a complet
 | [**take-home**](https://github.com/roxdavirox/take-home) | ⭐ 21 | Production fullstack monorepo (Next.js + NestJS) |
 | [**mago**](https://github.com/roxdavirox/mago) | 🔒 | AI workflow platform with parallel agents & MCP |
 | [**aurea**](https://github.com/roxdavirox/aurea) | 🔒 | Healthcare credentialing with tRPC |
-| [**agent-weaver**](https://github.com/roxdavirox/agent-weaver) | 🔒 | 3D agent orchestration visualization |
 | [**clean-api**](https://github.com/roxdavirox/clean-api) | ⭐ 1 | Clean Architecture API with TDD |
 
 ---
 
-### 📊 GitHub Overview
+### 📊 Stats
 
-**30+ repositories** · TypeScript focus · Active since 2020
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxdavirox&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
