@@ -13,29 +13,31 @@
 
 ### 👨‍💻 About
 
-Fullstack developer with **6+ years** building web applications, APIs, and automation tools.  
-I focus on delivering **clean, scalable, and maintainable** software with great developer experience.
+Fullstack developer with **6+ years** of experience building web applications, APIs, and automation tools. I've worked across different domains — from **e-commerce** and **marketplaces** to **healthcare** and **messaging automation**.
 
-Beyond coding, I'm deeply interested in **developer tooling**, **AI agents**, and creating environments that maximize productivity.
+My focus is on delivering **clean, scalable, and maintainable** software while constantly improving developer experience and exploring emerging technologies.
 
 ---
 
-### 🔬 Research & Interests
+### 🔬 Research & Current Interests
 
 **Dev Toolbox Philosophy**  
-I maintain a personal **cloud development environment** — a VPS configured as a complete dev workstation with all my projects, tools, and automation ready to go. The idea is having a portable, powerful, and always-available development setup accessible from anywhere.
+I maintain a personal **cloud development environment** — a VPS configured as a complete dev workstation with all my projects, tools, and automation ready to go. A portable, powerful setup accessible from anywhere.
 
-**Current Explorations:**
-- 🤖 **AI Agents & MCP** — Browser automation with Model Context Protocol
-- 🧠 **LLM-assisted Development** — Integrating AI into workflows (Claude Code, Copilot)
-- 🛠 **Developer Experience** — Monorepos, hot reload, type safety, testing pipelines
-- 📊 **Observability** — Structured logging, tracing, metrics
-- 🎨 **Design Systems** — Component libraries with Storybook
+**What I'm Exploring:**
 
-**Studying:**
+| Area | Focus |
+|------|-------|
+| 🤖 **AI Agents** | Browser automation, MCP servers, autonomous workflows |
+| 🧠 **LLM Integration** | Claude Code, Copilot, AI-assisted development |
+| 🛠 **Developer Experience** | Monorepos, hot reload, type safety, testing pipelines |
+| 🎨 **Design Systems** | Component libraries, Storybook, consistent APIs |
+| 📊 **Observability** | Structured logging, tracing, metrics at scale |
+
+**Currently Studying:**
 - Functional programming (fp-ts, Effect)
 - Distributed systems & event sourcing
-- Neovim & Lua scripting
+- Neovim ecosystem & Lua scripting
 - Rust for performance-critical tooling
 
 ---
@@ -99,19 +101,38 @@ I maintain a personal **cloud development environment** — a VPS configured as 
 
 ---
 
-### 📌 Highlighted Work
+### 🎯 Domains & Solutions
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**take-home**](https://github.com/roxdavirox/take-home) | Production-ready fullstack monorepo template | Next.js 15, NestJS, Prisma |
-| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | Real-time WhatsApp Web integration | Node.js, WebSocket |
-| [**mago**](https://github.com/roxdavirox/mago) | AI workflow automation with browser agents | TypeScript, MCP, Playwright |
-| [**aurea**](https://github.com/roxdavirox/aurea) | Healthcare credentialing platform | tRPC, React, Storybook |
-| [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture API with TDD | TypeScript, Jest |
+**Messaging & Automation**  
+Built real-time WhatsApp integrations and automation tools. Experience with WebSocket protocols and reverse engineering web apps.
+
+**Healthcare**  
+Currently building credentialing platforms with complex workflows, approval pipelines, and compliance requirements.
+
+**E-commerce & Marketplaces**  
+Developed marketplace APIs, integrations with Pipedrive/Bling, and full e-commerce solutions.
+
+**Architecture & Monorepos**  
+Expertise in clean architecture, microservices, and modern monorepo setups with shared packages.
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
+
+| Project | Stars | Description |
+|---------|:-----:|-------------|
+| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | ⭐ 36 | WhatsApp Web real-time socket integration |
+| [**take-home**](https://github.com/roxdavirox/take-home) | ⭐ 21 | Production fullstack monorepo (Next.js + NestJS) |
+| [**mago**](https://github.com/roxdavirox/mago) | 🔒 | AI workflow automation with browser agents |
+| [**aurea**](https://github.com/roxdavirox/aurea) | 🔒 | Healthcare credentialing platform |
+| [**clean-api**](https://github.com/roxdavirox/clean-api) | ⭐ 1 | Clean Architecture API with TDD |
+| [**rito-gomes**](https://github.com/roxdavirox/rito-gomes) | ⭐ 1 | Microservices with MoleculerJS + Lerna |
+
+---
+
+### 📊 GitHub Overview
+
+**30+ repositories** · TypeScript focus · Active since 2020
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
