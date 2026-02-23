@@ -2,7 +2,7 @@
 
 # Davi Coutinho
 
-**Software & Agentic Engineer** · São Paulo, Brazil
+**Software Engineer** · São Paulo, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roxdavirox@gmail.com)
@@ -13,7 +13,9 @@
 
 ### About
 
-Fullstack developer with **8+ years** of experience building web applications, APIs, and automation tools. Started with **.NET/C#** backend, evolved through **React/Node.js** fullstack, now focused on **TypeScript ecosystems** and **AI-powered automation**.
+**8+ years** building web applications, APIs, and automation tools. Started with **.NET/C#**, evolved through **React/Node.js**, now focused on **TypeScript ecosystems** and **Agentic Engineering** — multi-agent orchestration, browser automation, and AI-powered workflows.
+
+Passionate about **software craftsmanship**: clean architecture, DDD, SOLID principles, and building maintainable systems.
 
 Domains: e-commerce, marketplaces, healthcare, enterprise portals.
 
