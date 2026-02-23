@@ -19,25 +19,41 @@ My focus is on delivering **clean, scalable, and maintainable** software while c
 
 ---
 
-### 🔬 Research & Current Interests
+### 🤖 AI Engineering & Automation
+
+Currently building sophisticated AI-powered systems that go beyond simple chatbots:
+
+**Mago Platform** — A complete workflow automation platform featuring:
+- 🔀 **Parallel Agent Execution** — Multiple AI agents running concurrently
+- 🌐 **Browser Automation** — Chrome extension with MCP server integration
+- 🎯 **Task Orchestration** — Complex multi-step workflows with state management
+- 📡 **Real-time Communication** — WebSocket-based agent coordination
+- 🔌 **MCP Servers** — Model Context Protocol for tool integration
+
+**Other AI Projects:**
+- **Agent Weaver** — 3D visualization for agent orchestration and debugging
+- **Figma Component Factory** — AI-powered component extraction from design artifacts
+- **Claude Code Integration** — Deep integration with AI coding assistants
+
+---
+
+### 🔬 Research & Interests
 
 **Dev Toolbox Philosophy**  
-I maintain a personal **cloud development environment** — a VPS configured as a complete dev workstation with all my projects, tools, and automation ready to go. A portable, powerful setup accessible from anywhere.
+I maintain a **cloud development environment** — a VPS configured as a complete dev workstation with projects, tools, and automation ready to go. Portable, powerful, accessible anywhere.
 
-**What I'm Exploring:**
+**Current Focus:**
 
-| Area | Focus |
-|------|-------|
-| 🤖 **AI Agents** | Browser automation, MCP servers, autonomous workflows |
-| 🧠 **LLM Integration** | Claude Code, Copilot, AI-assisted development |
-| 🛠 **Developer Experience** | Monorepos, hot reload, type safety, testing pipelines |
-| 🎨 **Design Systems** | Component libraries, Storybook, consistent APIs |
-| 📊 **Observability** | Structured logging, tracing, metrics at scale |
+| Area | What I'm Building |
+|------|-------------------|
+| 🤖 **AI Agents** | Multi-agent orchestration, parallel execution, MCP servers |
+| 🌐 **Browser Automation** | Chrome extensions, headless browsers, web scraping |
+| 🏥 **Healthcare Tech** | Credentialing platforms, approval workflows, compliance |
+| 🛠 **Developer Tools** | Monorepos, testing pipelines, Neovim configs |
 
-**Currently Studying:**
+**Studying:**
 - Functional programming (fp-ts, Effect)
 - Distributed systems & event sourcing
-- Neovim ecosystem & Lua scripting
 - Rust for performance-critical tooling
 
 ---
@@ -55,7 +71,6 @@ I maintain a personal **cloud development environment** — a VPS configured as 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-433D37?style=flat-square&logo=react&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -67,7 +82,6 @@ I maintain a personal **cloud development environment** — a VPS configured as 
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)
 
 </td>
 </tr>
@@ -81,39 +95,21 @@ I maintain a personal **cloud development environment** — a VPS configured as 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
 <td valign="top" width="50%">
 
-**Testing & Tools**
+**Testing & AI Tools**
 
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
 </td>
 </tr>
 </table>
-
----
-
-### 🎯 Domains & Solutions
-
-**Messaging & Automation**  
-Built real-time WhatsApp integrations and automation tools. Experience with WebSocket protocols and reverse engineering web apps.
-
-**Healthcare**  
-Currently building credentialing platforms with complex workflows, approval pipelines, and compliance requirements.
-
-**E-commerce & Marketplaces**  
-Developed marketplace APIs, integrations with Pipedrive/Bling, and full e-commerce solutions.
-
-**Architecture & Monorepos**  
-Expertise in clean architecture, microservices, and modern monorepo setups with shared packages.
 
 ---
 
@@ -123,10 +119,10 @@ Expertise in clean architecture, microservices, and modern monorepo setups with 
 |---------|:-----:|-------------|
 | [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | ⭐ 36 | WhatsApp Web real-time socket integration |
 | [**take-home**](https://github.com/roxdavirox/take-home) | ⭐ 21 | Production fullstack monorepo (Next.js + NestJS) |
-| [**mago**](https://github.com/roxdavirox/mago) | 🔒 | AI workflow automation with browser agents |
-| [**aurea**](https://github.com/roxdavirox/aurea) | 🔒 | Healthcare credentialing platform |
+| [**mago**](https://github.com/roxdavirox/mago) | 🔒 | AI workflow platform with parallel agents & MCP |
+| [**aurea**](https://github.com/roxdavirox/aurea) | 🔒 | Healthcare credentialing with tRPC |
+| [**agent-weaver**](https://github.com/roxdavirox/agent-weaver) | 🔒 | 3D agent orchestration visualization |
 | [**clean-api**](https://github.com/roxdavirox/clean-api) | ⭐ 1 | Clean Architecture API with TDD |
-| [**rito-gomes**](https://github.com/roxdavirox/rito-gomes) | ⭐ 1 | Microservices with MoleculerJS + Lerna |
 
 ---
 
