@@ -13,7 +13,27 @@
 Fullstack developer with **6+ years** building web applications, APIs, and automation tools.  
 I focus on delivering **clean, scalable, and maintainable** software with great developer experience.
 
-Currently working on **AI-powered browser automation** and **healthcare credentialing platforms**.
+Beyond coding, I'm deeply interested in **developer tooling**, **AI agents**, and creating environments that maximize productivity.
+
+---
+
+### 🔬 Research & Interests
+
+**Dev Toolbox Philosophy**  
+I maintain a personal **cloud development environment** — a VPS configured as a complete dev workstation with all my projects, tools, and automation ready to go. The idea is having a portable, powerful, and always-available development setup that I can access from anywhere.
+
+**Current Explorations:**
+- 🤖 **AI Agents & MCP** — Building browser automation agents with Model Context Protocol
+- 🧠 **LLM-assisted Development** — Integrating AI into development workflows (Claude Code, Copilot)
+- 🛠 **Developer Experience** — Monorepos, hot reload, type safety, testing pipelines
+- 📊 **Observability** — Structured logging, tracing, metrics for debugging at scale
+- 🎨 **Design Systems** — Component libraries with Storybook, consistent APIs
+
+**Areas I'm Studying:**
+- Functional programming patterns (fp-ts, Effect)
+- Distributed systems & event sourcing
+- Neovim ecosystem & Lua scripting
+- Rust for performance-critical tooling
 
 ---
 
@@ -36,7 +56,7 @@ Node.js • NestJS • Express • tRPC • Prisma • REST • GraphQL
 
 **Databases & Infra**
 ```
-PostgreSQL • Redis • MongoDB • Docker • Docker Compose • Nginx
+PostgreSQL • Redis • MongoDB • Docker • Nginx • Linux (Ubuntu)
 ```
 
 **Testing & Quality**
@@ -55,9 +75,10 @@ Monorepos (TurboRepo, pnpm) • Clean Architecture • DDD • Microservices
 
 - **Fullstack Web Development** — React + Node.js applications with type-safe APIs
 - **Monorepo Architecture** — Shared packages, workspaces, build optimization
-- **API Design** — RESTful, GraphQL, tRPC with proper validation and error handling
-- **Testing Strategies** — Unit, integration, and E2E testing with high coverage
+- **API Design** — RESTful, GraphQL, tRPC with validation and error handling
+- **Testing Strategies** — Unit, integration, E2E with high coverage
 - **AI & Automation** — Browser agents, MCP servers, workflow automation
+- **Infrastructure** — Docker environments, reverse proxies, SSL, CI/CD pipelines
 
 ---
 
@@ -67,9 +88,9 @@ Monorepos (TurboRepo, pnpm) • Clean Architecture • DDD • Microservices
 |---------|-------------|------|
 | [**take-home**](https://github.com/roxdavirox/take-home) | Production-ready fullstack monorepo template | Next.js 15, NestJS, Prisma, Redis |
 | [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | Real-time WhatsApp Web integration | Node.js, WebSocket |
+| [**mago**](https://github.com/roxdavirox/mago) | AI workflow automation with browser agents | TypeScript, MCP, Playwright |
+| [**aurea**](https://github.com/roxdavirox/aurea) | Healthcare credentialing platform | tRPC, React, Storybook, E2E |
 | [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture API with TDD | TypeScript, Jest, Express |
-| [**mago**](https://github.com/roxdavirox/mago) | AI workflow automation platform | TypeScript, MCP, Browser Agents |
-| [**aurea**](https://github.com/roxdavirox/aurea) | Healthcare credentialing platform | tRPC, React, Playwright |
 
 ---
 
@@ -86,4 +107,3 @@ Monorepos (TurboRepo, pnpm) • Clean Architecture • DDD • Microservices
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roxdavirox@gmail.com)
-
