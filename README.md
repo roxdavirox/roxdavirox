@@ -2,12 +2,7 @@
 
 # Davi Coutinho
 
-**Senior Fullstack Engineer**
-
-*Building scalable apps and AI-powered automation*
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
-[![Codewars](https://www.codewars.com/users/roxdavirox/badges/micro)](https://www.codewars.com/users/roxdavirox)
+**Senior Fullstack Engineer** · São Paulo, Brazil
 
 </div>
 
@@ -15,40 +10,80 @@
 
 ### 👨‍💻 About
 
-Fullstack developer with 6+ years of experience building web applications.  
-Passionate about **clean architecture**, **type-safe APIs**, and **developer experience**.
+Fullstack developer with **6+ years** building web applications, APIs, and automation tools.  
+I focus on delivering **clean, scalable, and maintainable** software with great developer experience.
 
-Currently exploring:
-- 🤖 **AI Agents** — Browser automation with MCP servers
-- 🏥 **Healthcare Tech** — Credentialing platforms with tRPC
-- 📦 **Monorepos** — TurboRepo + pnpm workspaces
+Currently working on **AI-powered browser automation** and **healthcare credentialing platforms**.
 
-### 🛠 Tech Stack
+---
 
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+### 🛠 Technical Skills
 
-### 📌 Featured Projects
+**Languages**
+```
+TypeScript • JavaScript • Rust • Lua • SQL
+```
 
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [**take-home**](https://github.com/roxdavirox/take-home) | Production-ready fullstack monorepo with Next.js 15 + NestJS | ⭐ 21 |
-| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | WhatsApp Web real-time socket integration | ⭐ 36 |
-| [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture Node.js API with TDD | ⭐ 1 |
+**Frontend**
+```
+React • Next.js • React Native • Zustand • TanStack Query • Tailwind CSS
+```
 
-### 📊 GitHub Stats
+**Backend**
+```
+Node.js • NestJS • Express • tRPC • Prisma • REST • GraphQL
+```
+
+**Databases & Infra**
+```
+PostgreSQL • Redis • MongoDB • Docker • Docker Compose • Nginx
+```
+
+**Testing & Quality**
+```
+Jest • Playwright • Testing Library • TDD • E2E • CI/CD
+```
+
+**Architecture**
+```
+Monorepos (TurboRepo, pnpm) • Clean Architecture • DDD • Microservices
+```
+
+---
+
+### 🎯 Areas of Expertise
+
+- **Fullstack Web Development** — React + Node.js applications with type-safe APIs
+- **Monorepo Architecture** — Shared packages, workspaces, build optimization
+- **API Design** — RESTful, GraphQL, tRPC with proper validation and error handling
+- **Testing Strategies** — Unit, integration, and E2E testing with high coverage
+- **AI & Automation** — Browser agents, MCP servers, workflow automation
+
+---
+
+### 📌 Highlighted Work
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**take-home**](https://github.com/roxdavirox/take-home) | Production-ready fullstack monorepo template | Next.js 15, NestJS, Prisma, Redis |
+| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | Real-time WhatsApp Web integration | Node.js, WebSocket |
+| [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture API with TDD | TypeScript, Jest, Express |
+| [**mago**](https://github.com/roxdavirox/mago) | AI workflow automation platform | TypeScript, MCP, Browser Agents |
+| [**aurea**](https://github.com/roxdavirox/aurea) | Healthcare credentialing platform | tRPC, React, Playwright |
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxdavirox&layout=compact&theme=dark&hide_border=true&langs_count=8" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxdavirox&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 </div>
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roxdavirox@gmail.com)
+
