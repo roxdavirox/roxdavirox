@@ -4,6 +4,9 @@
 
 **Senior Fullstack Engineer** · São Paulo, Brazil
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roxdavirox@gmail.com)
+
 </div>
 
 ---
@@ -20,65 +23,79 @@ Beyond coding, I'm deeply interested in **developer tooling**, **AI agents**, an
 ### 🔬 Research & Interests
 
 **Dev Toolbox Philosophy**  
-I maintain a personal **cloud development environment** — a VPS configured as a complete dev workstation with all my projects, tools, and automation ready to go. The idea is having a portable, powerful, and always-available development setup that I can access from anywhere.
+I maintain a personal **cloud development environment** — a VPS configured as a complete dev workstation with all my projects, tools, and automation ready to go. The idea is having a portable, powerful, and always-available development setup accessible from anywhere.
 
 **Current Explorations:**
-- 🤖 **AI Agents & MCP** — Building browser automation agents with Model Context Protocol
-- 🧠 **LLM-assisted Development** — Integrating AI into development workflows (Claude Code, Copilot)
+- 🤖 **AI Agents & MCP** — Browser automation with Model Context Protocol
+- 🧠 **LLM-assisted Development** — Integrating AI into workflows (Claude Code, Copilot)
 - 🛠 **Developer Experience** — Monorepos, hot reload, type safety, testing pipelines
-- 📊 **Observability** — Structured logging, tracing, metrics for debugging at scale
-- 🎨 **Design Systems** — Component libraries with Storybook, consistent APIs
+- 📊 **Observability** — Structured logging, tracing, metrics
+- 🎨 **Design Systems** — Component libraries with Storybook
 
-**Areas I'm Studying:**
-- Functional programming patterns (fp-ts, Effect)
+**Studying:**
+- Functional programming (fp-ts, Effect)
 - Distributed systems & event sourcing
-- Neovim ecosystem & Lua scripting
+- Neovim & Lua scripting
 - Rust for performance-critical tooling
 
 ---
 
-### 🛠 Technical Skills
+### 🛠 Tech Stack
 
-**Languages**
-```
-TypeScript • JavaScript • Rust • Lua • SQL
-```
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Frontend**
-```
-React • Next.js • React Native • Zustand • TanStack Query • Tailwind CSS
-```
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-433D37?style=flat-square&logo=react&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
 
 **Backend**
-```
-Node.js • NestJS • Express • tRPC • Prisma • REST • GraphQL
-```
 
-**Databases & Infra**
-```
-PostgreSQL • Redis • MongoDB • Docker • Nginx • Linux (Ubuntu)
-```
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)
 
-**Testing & Quality**
-```
-Jest • Playwright • Testing Library • TDD • E2E • CI/CD
-```
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-**Architecture**
-```
-Monorepos (TurboRepo, pnpm) • Clean Architecture • DDD • Microservices
-```
+**Database & Infra**
 
----
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🎯 Areas of Expertise
+</td>
+<td valign="top" width="50%">
 
-- **Fullstack Web Development** — React + Node.js applications with type-safe APIs
-- **Monorepo Architecture** — Shared packages, workspaces, build optimization
-- **API Design** — RESTful, GraphQL, tRPC with validation and error handling
-- **Testing Strategies** — Unit, integration, E2E with high coverage
-- **AI & Automation** — Browser agents, MCP servers, workflow automation
-- **Infrastructure** — Docker environments, reverse proxies, SSL, CI/CD pipelines
+**Testing & Tools**
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -86,24 +103,17 @@ Monorepos (TurboRepo, pnpm) • Clean Architecture • DDD • Microservices
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**take-home**](https://github.com/roxdavirox/take-home) | Production-ready fullstack monorepo template | Next.js 15, NestJS, Prisma, Redis |
+| [**take-home**](https://github.com/roxdavirox/take-home) | Production-ready fullstack monorepo template | Next.js 15, NestJS, Prisma |
 | [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | Real-time WhatsApp Web integration | Node.js, WebSocket |
 | [**mago**](https://github.com/roxdavirox/mago) | AI workflow automation with browser agents | TypeScript, MCP, Playwright |
-| [**aurea**](https://github.com/roxdavirox/aurea) | Healthcare credentialing platform | tRPC, React, Storybook, E2E |
-| [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture API with TDD | TypeScript, Jest, Express |
+| [**aurea**](https://github.com/roxdavirox/aurea) | Healthcare credentialing platform | tRPC, React, Storybook |
+| [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture API with TDD | TypeScript, Jest |
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=roxdavirox&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxdavirox&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 </div>
-
----
-
-### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roxdavirox@gmail.com)
