@@ -112,25 +112,37 @@ Domains: e-commerce, marketplaces, healthcare, enterprise portals.
 
 ---
 
-### Architecture & Patterns
+### Software Engineering
 
-**Clean Architecture** — Layers, dependency inversion, use cases, repository pattern
+Passionate about **software craftsmanship** and building maintainable systems.
 
-**Domain-Driven Design** — Bounded contexts, aggregates, value objects, domain events
+**Principles & Practices**
+- SOLID, KISS, DRY, YAGNI
+- Clean Code & Refactoring
+- Test-Driven Development (TDD)
+- Continuous Integration/Delivery
 
-**Monorepos** — pnpm workspaces, Lerna, TurboRepo, shared packages with type-safe contracts
+**Architecture Patterns**
+- Clean Architecture — Layers, dependency inversion, use cases
+- Domain-Driven Design — Bounded contexts, aggregates, domain events
+- Hexagonal/Ports & Adapters
+- Event-Driven Architecture
 
-**Serverless** — Lambda functions, API Gateway, event-driven with SQS/SNS, Middy middleware
+**Monorepos & Modularity**
+- pnpm workspaces, Lerna, TurboRepo
+- Shared packages with type-safe contracts
+- Consistent tooling across projects
 
 ---
 
 ### Current Focus
 
-**AI Engineering**
-- Parallel agent execution with coordination
+**Agentic Engineering**
+- Multi-agent orchestration with parallel execution
 - Browser automation via Chrome extension + MCP servers
-- Task orchestration with state management
+- Task coordination with state management
 - Real-time WebSocket communication
+- Model Context Protocol (MCP) integration
 
 **Dev Toolbox**
 - Cloud dev environment with isolated workspaces
