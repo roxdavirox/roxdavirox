@@ -125,11 +125,12 @@ Never took a course. Everything I know came from reading docs, breaking things, 
 
 | Project | Description |
 |---------|-------------|
-| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) 36 stars | WhatsApp Web real-time socket integration |
-| [**take-home**](https://github.com/roxdavirox/take-home) 21 stars | Production fullstack monorepo (Next.js + NestJS + Prisma) |
-| [**mago**](https://github.com/roxdavirox/mago) | AI workflow platform with parallel agents & MCP |
-| [**aurea**](https://github.com/roxdavirox/aurea) | Healthcare credentialing with tRPC + Playwright E2E |
-| [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture Node.js API with TDD |
+| [**mago**](https://github.com/tecnomancy/mago) | AI workflow platform with browser agents & MCP servers |
+| [**alchemy**](https://github.com/tecnomancy/alchemy) | Functional programming primitives for TypeScript — zero dependencies |
+| [**tecnomancer**](https://github.com/tecnomancy/tecnomancer) | OSINT, hacking & agentic engineering grimoire |
+| [**vort3x**](https://github.com/tecnomancy/vort3x) | 3D force-directed graph visualization |
+| [**mago-office**](https://github.com/tecnomancy/mago-office) | Virtual office for AI agents — 2D workspace with real-time presence |
+| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | WhatsApp Web real-time socket integration |
 
 ---
 
