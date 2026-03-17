@@ -2,7 +2,7 @@
 
 # Davi Coutinho
 
-**Software Engineer** · São Paulo, Brazil
+**Self-taught Developer · Tech Enthusiast** · São Paulo, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-coutinho)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roxdavirox@gmail.com)
@@ -13,11 +13,9 @@
 
 ### About
 
-**8+ years** building web applications, APIs, and automation tools. Started with **.NET/C#**, evolved through **React/Node.js**, now focused on **TypeScript ecosystems** and **Agentic Engineering** — multi-agent orchestration, browser automation, and AI-powered workflows.
+**8+ years** building things with code — APIs, automations, AI agents, whatever catches my attention. Started with **.NET/C#**, went deep into **React/Node.js**, and now I live in **TypeScript** while exploring **Rust**, **OSINT**, and **Agentic AI**.
 
-Passionate about **software craftsmanship**: clean architecture, DDD, SOLID principles, and building maintainable systems.
-
-Domains: e-commerce, marketplaces, healthcare, enterprise portals.
+Never took a course. Everything I know came from reading docs, breaking things, and obsessing over how stuff works under the hood.
 
 ---
 
@@ -114,44 +112,12 @@ Domains: e-commerce, marketplaces, healthcare, enterprise portals.
 
 ---
 
-### Software Engineering
-
-Passionate about **software craftsmanship** and building maintainable systems.
-
-**Principles & Practices**
-- SOLID, KISS, DRY, YAGNI
-- Clean Code & Refactoring
-- Test-Driven Development (TDD)
-- Continuous Integration/Delivery
-
-**Architecture Patterns**
-- Clean Architecture — Layers, dependency inversion, use cases
-- Domain-Driven Design — Bounded contexts, aggregates, domain events
-- Hexagonal/Ports & Adapters
-- Event-Driven Architecture
-
-**Monorepos & Modularity**
-- pnpm workspaces, Lerna, TurboRepo
-- Shared packages with type-safe contracts
-- Consistent tooling across projects
-
----
-
 ### Current Focus
 
-**Agentic Engineering**
-- Multi-agent orchestration with parallel execution
-- Browser automation via Chrome extension + MCP servers
-- Task coordination with state management
-- Real-time WebSocket communication
-- Model Context Protocol (MCP) integration
-
-**Dev Toolbox**
-- Cloud dev environment with isolated workspaces
-- Reverse proxies, SSL automation, PM2 orchestration
-- Multi-project management
-
-**Studying:** Functional programming (fp-ts, Effect), distributed systems, Rust
+- **Agentic AI** — multi-agent orchestration, MCP servers, browser automation
+- **OSINT & Security** — reconnaissance frameworks, data gathering
+- **Rust** — systems programming, CLI tools
+- **Functional Programming** — fp-ts, Effect
 
 ---
 
@@ -159,8 +125,8 @@ Passionate about **software craftsmanship** and building maintainable systems.
 
 | Project | Description |
 |---------|-------------|
-| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) ⭐36 | WhatsApp Web real-time socket integration |
-| [**take-home**](https://github.com/roxdavirox/take-home) ⭐21 | Production fullstack monorepo (Next.js + NestJS + Prisma) |
+| [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) 36 stars | WhatsApp Web real-time socket integration |
+| [**take-home**](https://github.com/roxdavirox/take-home) 21 stars | Production fullstack monorepo (Next.js + NestJS + Prisma) |
 | [**mago**](https://github.com/roxdavirox/mago) | AI workflow platform with parallel agents & MCP |
 | [**aurea**](https://github.com/roxdavirox/aurea) | Healthcare credentialing with tRPC + Playwright E2E |
 | [**clean-api**](https://github.com/roxdavirox/clean-api) | Clean Architecture Node.js API with TDD |
@@ -171,9 +137,9 @@ Passionate about **software craftsmanship** and building maintainable systems.
 
 | Period | Focus |
 |--------|-------|
-| 2016-2018 | C#, ASP.NET MVC, Entity Framework, DDD |
-| 2019-2020 | React, Node.js, WebSocket, Clean Architecture |
-| 2021-2023 | Microservices, TypeScript, TDD, Monorepos |
-| 2024-now | AI Agents, Rust, Serverless, Healthcare |
+| 2016-2018 | C#, ASP.NET MVC, Entity Framework |
+| 2019-2020 | React, Node.js, WebSocket, APIs |
+| 2021-2023 | TypeScript, Microservices, Monorepos |
+| 2024-now | AI Agents, Rust, OSINT, Serverless |
 
-**80+ repositories** · Building since 2016
+**80+ repositories** · Self-taught since 2016
