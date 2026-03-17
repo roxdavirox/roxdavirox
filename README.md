@@ -13,7 +13,7 @@
 
 ### About
 
-**8+ years** building things with code — APIs, automations, AI agents, whatever catches my attention. Started with **.NET/C#**, went deep into **React/Node.js**, and now I live in **TypeScript** while exploring **Rust**, **OSINT**, and **Agentic AI**.
+**8+ years** building things with code — APIs, automations, AI agents, whatever catches my attention. Started with **.NET/C#**, went deep into **React/Node.js**, and now I live in **TypeScript** while exploring **OSINT** and **Agentic AI**.
 
 Never took a course. Everything I know came from reading docs, breaking things, and obsessing over how stuff works under the hood.
 
@@ -103,7 +103,6 @@ Never took a course. Everything I know came from reading docs, breaking things, 
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Lerna](https://img.shields.io/badge/-Lerna-9333EA?style=flat-square&logo=lerna&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 </td>
@@ -116,7 +115,6 @@ Never took a course. Everything I know came from reading docs, breaking things, 
 
 - **Agentic AI** — multi-agent orchestration, MCP servers, browser automation
 - **OSINT & Security** — reconnaissance frameworks, data gathering
-- **Rust** — systems programming, CLI tools
 - **Functional Programming** — fp-ts, Effect
 
 ---
@@ -141,6 +139,6 @@ Never took a course. Everything I know came from reading docs, breaking things, 
 | 2016-2018 | C#, ASP.NET MVC, Entity Framework |
 | 2019-2020 | React, Node.js, WebSocket, APIs |
 | 2021-2023 | TypeScript, Microservices, Monorepos |
-| 2024-now | AI Agents, Rust, OSINT, Serverless |
+| 2024-now | AI Agents, OSINT, Serverless |
 
 **80+ repositories** · Self-taught since 2016
