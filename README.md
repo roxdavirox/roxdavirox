@@ -4,9 +4,6 @@
 
 **Self-taught Developer · Tech Enthusiast** · São Paulo, Brazil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1929?style=flat-square&logo=linkedin&logoColor=4fc3f7)](https://www.linkedin.com/in/davi-coutinho)
-[![Email](https://img.shields.io/badge/Email-0a1929?style=flat-square&logo=gmail&logoColor=4fc3f7)](mailto:roxdavirox@gmail.com)
-
 </div>
 
 ---
