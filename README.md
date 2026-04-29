@@ -10,7 +10,7 @@
 
 ### About
 
-**10+ years** shipping code across very different stacks — APIs, real-time systems, AI agents, embedded firmware, OSINT pipelines, custom DSLs, game-server reverse engineering, whatever pulls me in. Started in **.NET/C#**, fell into **React/Node.js**, now I live in **TypeScript** and run a self-hosted intelligence grid on a single VPS.
+**10+ years** shipping code across very different stacks — APIs, real-time systems, AI agents, embedded firmware, OSINT pipelines, custom DSLs, game-server reverse engineering, whatever pulls me in. Started in **.NET/C#**, fell into **React/Node.js**, now I live in **TypeScript** and run a self-hosted intelligence grid for agentic work.
 
 Self-taught — learned by reading docs, breaking things, and obsessing over how stuff works under the hood. Most of what I build ships under [@tecnomancy](https://github.com/tecnomancy), my personal R&D org for agentic AI, OSINT and tooling.
 
@@ -51,11 +51,12 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a1929?style=flat-square&logo=tailwindcss&logoColor=4fc3f7)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0a1929?style=flat-square&logo=antdesign&logoColor=4fc3f7)
 ![Material UI](https://img.shields.io/badge/Material_UI-0a1929?style=flat-square&logo=mui&logoColor=4fc3f7)
+![Vite](https://img.shields.io/badge/Vite-0a1929?style=flat-square&logo=vite&logoColor=4fc3f7)
 
 </td>
 <td valign="top" width="50%">
 
-**Backend & Runtimes**
+**Backend**
 
 ![Bun](https://img.shields.io/badge/Bun-0a1929?style=flat-square&logo=bun&logoColor=4fc3f7)
 ![Node.js](https://img.shields.io/badge/Node.js-0a1929?style=flat-square&logo=nodedotjs&logoColor=4fc3f7)
@@ -67,46 +68,25 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 ![GraphQL](https://img.shields.io/badge/GraphQL-0a1929?style=flat-square&logo=graphql&logoColor=4fc3f7)
 ![Effect](https://img.shields.io/badge/Effect-0a1929?style=flat-square&logo=effect&logoColor=4fc3f7)
 ![.NET](https://img.shields.io/badge/.NET-0a1929?style=flat-square&logo=dotnet&logoColor=4fc3f7)
-![Arduino](https://img.shields.io/badge/Arduino-0a1929?style=flat-square&logo=arduino&logoColor=4fc3f7)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**Cloud & Self-hosted**
-
-![AWS](https://img.shields.io/badge/AWS-0a1929?style=flat-square&logo=amazonwebservices&logoColor=4fc3f7)
-![Lambda](https://img.shields.io/badge/Lambda-0a1929?style=flat-square&logo=awslambda&logoColor=4fc3f7)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0a1929?style=flat-square&logo=amazondynamodb&logoColor=4fc3f7)
-![S3](https://img.shields.io/badge/S3-0a1929?style=flat-square&logo=amazons3&logoColor=4fc3f7)
-![SQS](https://img.shields.io/badge/SQS-0a1929?style=flat-square&logo=amazonsqs&logoColor=4fc3f7)
-![Cognito](https://img.shields.io/badge/Cognito-0a1929?style=flat-square&logo=amazonaws&logoColor=4fc3f7)
-![Serverless](https://img.shields.io/badge/Serverless-0a1929?style=flat-square&logo=serverless&logoColor=4fc3f7)
-![MinIO](https://img.shields.io/badge/MinIO-0a1929?style=flat-square&logo=minio&logoColor=4fc3f7)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-0a1929?style=flat-square&logo=opentofu&logoColor=4fc3f7)
-
-</td>
-<td valign="top" width="50%">
-
-**Database & Infra**
+**Databases & ORMs**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1929?style=flat-square&logo=postgresql&logoColor=4fc3f7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a1929?style=flat-square&logo=mongodb&logoColor=4fc3f7)
 ![Redis](https://img.shields.io/badge/Redis-0a1929?style=flat-square&logo=redis&logoColor=4fc3f7)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0a1929?style=flat-square&logo=amazondynamodb&logoColor=4fc3f7)
 ![Prisma](https://img.shields.io/badge/Prisma-0a1929?style=flat-square&logo=prisma&logoColor=4fc3f7)
 ![Drizzle](https://img.shields.io/badge/Drizzle-0a1929?style=flat-square&logo=drizzle&logoColor=4fc3f7)
-![Docker](https://img.shields.io/badge/Docker-0a1929?style=flat-square&logo=docker&logoColor=4fc3f7)
-![Nginx](https://img.shields.io/badge/Nginx-0a1929?style=flat-square&logo=nginx&logoColor=4fc3f7)
-![Linux](https://img.shields.io/badge/Linux-0a1929?style=flat-square&logo=linux&logoColor=4fc3f7)
-![PM2](https://img.shields.io/badge/PM2-0a1929?style=flat-square&logo=pm2&logoColor=4fc3f7)
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
-**Testing & Quality**
+**Testing & Validation**
 
 ![Playwright](https://img.shields.io/badge/Playwright-0a1929?style=flat-square&logo=playwright&logoColor=4fc3f7)
 ![Jest](https://img.shields.io/badge/Jest-0a1929?style=flat-square&logo=jest&logoColor=4fc3f7)
@@ -116,7 +96,35 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 ![Zod](https://img.shields.io/badge/Zod-0a1929?style=flat-square&logo=zod&logoColor=4fc3f7)
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
+
+**Cloud (AWS)**
+
+![AWS](https://img.shields.io/badge/AWS-0a1929?style=flat-square&logo=amazonwebservices&logoColor=4fc3f7)
+![Lambda](https://img.shields.io/badge/Lambda-0a1929?style=flat-square&logo=awslambda&logoColor=4fc3f7)
+![S3](https://img.shields.io/badge/S3-0a1929?style=flat-square&logo=amazons3&logoColor=4fc3f7)
+![SQS](https://img.shields.io/badge/SQS-0a1929?style=flat-square&logo=amazonsqs&logoColor=4fc3f7)
+![Cognito](https://img.shields.io/badge/Cognito-0a1929?style=flat-square&logo=amazonaws&logoColor=4fc3f7)
+![Serverless](https://img.shields.io/badge/Serverless-0a1929?style=flat-square&logo=serverless&logoColor=4fc3f7)
+
+</td>
+<td valign="top" width="50%">
+
+**Self-hosted Infra**
+
+![Linux](https://img.shields.io/badge/Linux-0a1929?style=flat-square&logo=linux&logoColor=4fc3f7)
+![Docker](https://img.shields.io/badge/Docker-0a1929?style=flat-square&logo=docker&logoColor=4fc3f7)
+![MinIO](https://img.shields.io/badge/MinIO-0a1929?style=flat-square&logo=minio&logoColor=4fc3f7)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-0a1929?style=flat-square&logo=opentofu&logoColor=4fc3f7)
+![Nginx](https://img.shields.io/badge/Nginx-0a1929?style=flat-square&logo=nginx&logoColor=4fc3f7)
+![PM2](https://img.shields.io/badge/PM2-0a1929?style=flat-square&logo=pm2&logoColor=4fc3f7)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
 
 **DevTools & Editor**
 
@@ -124,7 +132,6 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 ![Turborepo](https://img.shields.io/badge/Turborepo-0a1929?style=flat-square&logo=turborepo&logoColor=4fc3f7)
 ![pnpm](https://img.shields.io/badge/pnpm-0a1929?style=flat-square&logo=pnpm&logoColor=4fc3f7)
 ![Lerna](https://img.shields.io/badge/Lerna-0a1929?style=flat-square&logo=lerna&logoColor=4fc3f7)
-![Vite](https://img.shields.io/badge/Vite-0a1929?style=flat-square&logo=vite&logoColor=4fc3f7)
 ![Neovim](https://img.shields.io/badge/Neovim-0a1929?style=flat-square&logo=neovim&logoColor=4fc3f7)
 ![Ghostty](https://img.shields.io/badge/Ghostty-0a1929?style=flat-square&logo=ghostty&logoColor=4fc3f7)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-0a1929?style=flat-square&logo=platformio&logoColor=4fc3f7)
@@ -140,6 +147,7 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0a1929?style=flat-square&logo=claude&logoColor=4fc3f7)
 ![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-0a1929?style=flat-square&logo=claude&logoColor=4fc3f7)
 ![MCP](https://img.shields.io/badge/MCP-0a1929?style=flat-square&logo=modelcontextprotocol&logoColor=4fc3f7)
+![Spec Kit](https://img.shields.io/badge/Spec_Kit-0a1929?style=flat-square&logo=github&logoColor=4fc3f7)
 ![Gemini Live](https://img.shields.io/badge/Gemini_Live-0a1929?style=flat-square&logo=googlegemini&logoColor=4fc3f7)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0a1929?style=flat-square&logo=openai&logoColor=4fc3f7)
 ![OpenCode](https://img.shields.io/badge/OpenCode-0a1929?style=flat-square&logo=opencode&logoColor=4fc3f7)
@@ -152,11 +160,25 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 
 ### Current Focus
 
-- **MAGO Intelligence Grid** — multi-agent orchestration, custom MCP servers, board-driven SDLC ("Symphony"), agent dispatch farms with WIP guards and per-agent telemetry
-- **Agentic AI** — voice-first agents (Gemini Live + Claude Code), browser automation with magic overlays and 4-strategy React clicks, MCP server design
+- **MAGO Intelligence Grid** — multi-agent orchestration, custom MCP servers, board-driven SDLC, agent dispatch farms with WIP guards and per-agent telemetry
+- **Agentic AI** — voice-first agents (Gemini Live + Claude Code), browser automation with magic overlays, MCP server design
 - **OSINT & Security** — recursive recon chains, financial intelligence (FININT), leak hunting, secret scanning, wallet tracking, threat intel correlation
 - **Functional Programming** — fp-ts, Effect, algebraic data types, type-level inference (everything inferred, zero deps)
-- **Self-hosted Infra** — Bun-first stateless microservices on a single 8 vCPU / 32 GB / 400 GB VPS, **MAGO Cloud** (own serverless-style runtime), MinIO/S3, OpenTofu, nginx + cgroup tuning
+- **Self-hosted Infra** — Bun-first stateless microservices, **MAGO Cloud** (own serverless-style runtime), MinIO/S3, OpenTofu
+
+---
+
+### Engineering & Methodology
+
+I think a lot about *how* AI agents do work — not just *what* they output. Building, breaking and studying the layer between models and reality.
+
+- **Agent Harness Engineering** — designing the runtime around AI agents: tool surfaces, context windows, memory layers, permissions, hooks, subagent/forking strategies, output economics, MCP federation. Close reading of harness internals (Claude Code, OpenCode) and replicating patterns in my own runtimes.
+- **Spec-Driven Development (SDD)** — specs as the single source of truth ([GitHub Spec Kit](https://github.com/github/spec-kit) + custom workflows). Agents generate, verify and refactor code from specs; humans review the spec, not the diff.
+- **Test-Driven Development (TDD)** — tests-first / contract-first. Critical when AI agents drive implementation: a failing test is the only honest signal in a sea of plausible-looking code.
+- **Custom MCP Servers** — protocol bridges so agents manipulate boards, browsers, designs and infra without breaking tool-call context. Designed for narrow, composable surfaces over monolithic god-tools.
+- **Symphony SDLC** — board-driven cycle for agent-orchestrated work: Backlog → Todo → In Progress → Eye QA → PR → Done, with WIP guards, agent telemetry and a hard "single source of truth" board.
+- **SIGIL** — Structured Intelligence Grid Implementation Lifecycle for multi-agent feature delivery, from sigil intake through deploy.
+- **Currently studying** — context engineering, prompt-caching economics, multi-agent voice protocols, deterministic-vs-stochastic orchestration boundaries, formal specs as compilation source over code.
 
 ---
 
@@ -195,11 +217,11 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 
 | Domain | What I work on |
 |---|---|
-| **AI Agents** | Multi-agent orchestration, custom MCP servers, voice-first interfaces, browser automation with overlay UX, agent dispatch farms |
+| **Agent Engineering** | Harness design, MCP server federation, context engineering, subagent orchestration, voice-first interfaces |
 | **OSINT** | Recursive recon chains, financial intelligence, sanctions/PEPs/offshore lookup, leak hunting, wallet tracking, secret scanning, threat intel correlation |
 | **Real-time** | WebSocket protocols, voice (bidirectional audio), live presence, reverse-engineered web protocols |
 | **Functional Core** | TS type-level inference, ADTs, Effect, fp-ts, algebraic primitives |
-| **Self-hosted** | Single-VPS architecture, custom serverless runtime, MinIO/S3, OpenTofu, nginx tuning, cgroup limits, vertical scaling |
+| **Self-hosted** | Single-node architecture, custom serverless runtime, MinIO/S3, OpenTofu, vertical scaling |
 | **Embedded** | ESP8266/Arduino firmware, SPIFFS, RFID, hardware feedback (LCD/LED/buzzer) |
 | **Game Servers** | PristonTale server reverse engineering, C++ server tooling, MTG rules engine |
 | **DSL & Tooling** | Custom languages, GLSL shaders, Neovim config (J.A.R.V.I.S), Ghostty HUD experiments |
@@ -213,6 +235,6 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 | 2016-2018 | C#, ASP.NET MVC, Entity Framework |
 | 2019-2020 | React, Node.js, WebSocket, APIs |
 | 2021-2023 | TypeScript, Microservices, Monorepos |
-| 2024-present | AI Agents, OSINT, Self-hosted Infra, Voice-first Interfaces |
+| 2024-present | Agent Harness Engineering, AI Agents, OSINT, Self-hosted Infra |
 
 **120+ repositories** · Self-taught since 2016
