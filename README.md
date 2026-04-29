@@ -10,7 +10,7 @@
 
 ### About
 
-**8+ years** building things with code — APIs, automations, AI agents, whatever catches my attention. Started with **.NET/C#**, went deep into **React/Node.js**, and now I live in **TypeScript** while exploring **OSINT** and **Agentic AI**.
+**10+ years** building things with code — APIs, automations, AI agents, whatever catches my attention. Started with **.NET/C#**, went deep into **React/Node.js**, and now I live in **TypeScript** while exploring **OSINT** and **Agentic AI**.
 
 Self-taught — learned by reading docs, breaking things, and obsessing over how stuff works under the hood.
 
@@ -39,13 +39,17 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 
 **Backend**
 
+![Bun](https://img.shields.io/badge/Bun-0a1929?style=flat-square&logo=bun&logoColor=4fc3f7)
 ![Node.js](https://img.shields.io/badge/Node.js-0a1929?style=flat-square&logo=nodedotjs&logoColor=4fc3f7)
+![Hono](https://img.shields.io/badge/Hono-0a1929?style=flat-square&logo=hono&logoColor=4fc3f7)
 ![NestJS](https://img.shields.io/badge/NestJS-0a1929?style=flat-square&logo=nestjs&logoColor=4fc3f7)
 ![Express](https://img.shields.io/badge/Express-0a1929?style=flat-square&logo=express&logoColor=4fc3f7)
 ![tRPC](https://img.shields.io/badge/tRPC-0a1929?style=flat-square&logo=trpc&logoColor=4fc3f7)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0a1929?style=flat-square&logo=graphql&logoColor=4fc3f7)
 ![Prisma](https://img.shields.io/badge/Prisma-0a1929?style=flat-square&logo=prisma&logoColor=4fc3f7)
+![Drizzle](https://img.shields.io/badge/Drizzle-0a1929?style=flat-square&logo=drizzle&logoColor=4fc3f7)
 ![Zod](https://img.shields.io/badge/Zod-0a1929?style=flat-square&logo=zod&logoColor=4fc3f7)
+![Effect](https://img.shields.io/badge/Effect-0a1929?style=flat-square&logo=effect&logoColor=4fc3f7)
 ![.NET](https://img.shields.io/badge/.NET-0a1929?style=flat-square&logo=dotnet&logoColor=4fc3f7)
 
 </td>
@@ -99,8 +103,23 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 ![Turborepo](https://img.shields.io/badge/Turborepo-0a1929?style=flat-square&logo=turborepo&logoColor=4fc3f7)
 ![pnpm](https://img.shields.io/badge/pnpm-0a1929?style=flat-square&logo=pnpm&logoColor=4fc3f7)
 ![Lerna](https://img.shields.io/badge/Lerna-0a1929?style=flat-square&logo=lerna&logoColor=4fc3f7)
+![Vite](https://img.shields.io/badge/Vite-0a1929?style=flat-square&logo=vite&logoColor=4fc3f7)
 ![Neovim](https://img.shields.io/badge/Neovim-0a1929?style=flat-square&logo=neovim&logoColor=4fc3f7)
 ![Lua](https://img.shields.io/badge/Lua-0a1929?style=flat-square&logo=lua&logoColor=4fc3f7)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-0a1929?style=flat-square&logo=opentofu&logoColor=4fc3f7)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+**AI & Agents**
+
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-0a1929?style=flat-square&logo=anthropic&logoColor=4fc3f7)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0a1929?style=flat-square&logo=claude&logoColor=4fc3f7)
+![MCP](https://img.shields.io/badge/MCP-0a1929?style=flat-square&logo=modelcontextprotocol&logoColor=4fc3f7)
+![Gemini](https://img.shields.io/badge/Gemini_Live-0a1929?style=flat-square&logo=googlegemini&logoColor=4fc3f7)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a1929?style=flat-square&logo=openai&logoColor=4fc3f7)
 
 </td>
 </tr>
@@ -110,9 +129,10 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 
 ### Current Focus
 
-- **Agentic AI** — multi-agent orchestration, MCP servers, browser automation
-- **OSINT & Security** — reconnaissance frameworks, data gathering
-- **Functional Programming** — fp-ts, Effect
+- **Agentic AI** — multi-agent orchestration, MCP servers, browser automation, voice-first agents
+- **OSINT & Security** — recon frameworks, threat intel, financial intelligence, leak hunting
+- **Functional Programming** — fp-ts, Effect, algebraic data types
+- **Self-hosted Infra** — Bun-first microservices, MinIO/S3, OpenTofu, vertical scaling on a single VPS
 
 ---
 
@@ -120,11 +140,11 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 
 | Project | Description |
 |---------|-------------|
-| [**mago**](https://github.com/tecnomancy/mago) | AI workflow platform with browser agents & MCP servers |
 | [**alchemy**](https://github.com/tecnomancy/alchemy) | Functional programming primitives for TypeScript — zero dependencies |
-| [**tecnomancer**](https://github.com/tecnomancy/tecnomancer) | OSINT, hacking & agentic engineering grimoire |
 | [**vort3x**](https://github.com/tecnomancy/vort3x) | 3D force-directed graph visualization |
 | [**mago-office**](https://github.com/tecnomancy/mago-office) | Virtual office for AI agents — 2D workspace with real-time presence |
+| [**mago-voice**](https://github.com/tecnomancy/mago-voice) | Voice-first AI assistant — Gemini Live + Claude Code with real-time bidirectional audio |
+| [**magic**](https://github.com/tecnomancy/magic) | MTG AI Judge — deterministic rules engine + semantic RAG over Comp Rules, IPG, MTR & JAR |
 | [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | WhatsApp Web real-time socket integration |
 
 ---
@@ -136,6 +156,6 @@ Self-taught — learned by reading docs, breaking things, and obsessing over how
 | 2016-2018 | C#, ASP.NET MVC, Entity Framework |
 | 2019-2020 | React, Node.js, WebSocket, APIs |
 | 2021-2023 | TypeScript, Microservices, Monorepos |
-| 2024-now | AI Agents, OSINT, Serverless |
+| 2024-present | AI Agents, OSINT, Serverless |
 
-**80+ repositories** · Self-taught since 2016
+**120+ repositories** · Self-taught since 2016
