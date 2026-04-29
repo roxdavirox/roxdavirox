@@ -198,11 +198,8 @@ I think a lot about *how* AI agents do work — not just *what* they output. Bui
 
 | Project | Description |
 |---------|-------------|
-| [**arq-studio**](https://github.com/roxdavirox/arq-studio) | Architecture consulting client portal — mobile-first PWA with real-time video |
-| [**lume**](https://github.com/roxdavirox/lume) | Mobile-first React components — zero runtime CSS, PWA-native, dark mode built-in |
 | [**socket-whatsapp**](https://github.com/roxdavirox/socket-whatsapp) | WhatsApp Web socket integration — real-time messaging automation in Node.js |
 | [**take-home**](https://github.com/roxdavirox/take-home) | Fullstack monorepo — Next.js 15 + NestJS + Prisma + Redis + React Query + Docker Compose |
-| [**rito-gomes**](https://github.com/roxdavirox/rito-gomes) | High-scale microservices (Moleculer.js) in a Lerna monorepo with Docker |
 
 **Hardware & systems-level**
 
