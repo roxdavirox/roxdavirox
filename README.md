@@ -189,9 +189,6 @@ I think a lot about *how* AI agents do work — not just *what* they output. Bui
 | Project | Description |
 |---------|-------------|
 | [**alchemy**](https://github.com/tecnomancy/alchemy) | Functional programming primitives for TypeScript — every type inferred, zero dependencies |
-| [**vort3x**](https://github.com/tecnomancy/vort3x) | 3D force-directed graph with floating labels — plug data, get insight |
-| [**mago-office**](https://github.com/tecnomancy/mago-office) | Virtual office for MAGO agents and humans — 2D workspace with real-time presence |
-| [**mago-voice**](https://github.com/tecnomancy/mago-voice) | Voice-first AI assistant — Gemini Live + Claude Code, real-time bidirectional audio |
 | [**magic**](https://github.com/tecnomancy/magic) | MTG AI Judge — deterministic rules engine + semantic RAG over Comp Rules, IPG, MTR & JAR |
 
 **Apps & systems**
